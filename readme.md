@@ -30,3 +30,5 @@ This website is opensource and hosted by GitHub on https://github.com/mouthermou
 
 python3 app.py will generate a local server.
 <img src = "log.png" width = "1000px"></img>
+
+# PROJECT BY : CITY MONTESSORI SCHOOL, RDSO BRANCH. BY : SHWETANK PANDEY
