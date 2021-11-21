@@ -1,5 +1,5 @@
 # Wen by mouthermouth
-##Welcome all, due to time strain we could make this website project by a 
+Welcome all, due to time strain we could make this website project by a 
 little approach.
 We are very sorry for presenting you this website. We humbly request you to follow
 the steps to access out website :
