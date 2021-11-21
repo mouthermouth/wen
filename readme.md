@@ -9,3 +9,4 @@
 ## `python3 app.py`
 
 python3 app.py will generate a local server.
+<img src = "log.png" width = "200px"></img>
